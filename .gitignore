@@ -37,14 +37,6 @@ out/
 .vscode/
 
 ### 폴더 ###
-.gradle
-.idea
-.build
-.gradle
-build.gradle
-gradlew
-gradlew.bat
-HELP.md
-setting.gradle
+
 
 
