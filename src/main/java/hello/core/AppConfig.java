@@ -33,6 +33,7 @@ public class AppConfig {
                 memberRepository(),
                 discountPolicy()
         );
+        //return null;
     }
     @Bean
     public DiscountPolicy discountPolicy(){
